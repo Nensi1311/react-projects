@@ -1,4 +1,4 @@
-# React Internship Projects 🚀
+# React Projects 🚀
 
 This repository contains 18 projects completed during my comprehensive React development journey. The course covered everything from fundamental JavaScript and React basics to advanced topics like state management, performance optimization and full-stack development with Next.js and Supabase.
 
